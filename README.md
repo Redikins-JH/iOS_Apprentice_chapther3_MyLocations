@@ -1,5 +1,6 @@
 ##  My Locations practice
 
+ - 12/07 부산 iOS 스터디
 
 
 ## ScreenShot
